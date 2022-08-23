@@ -8,6 +8,7 @@
  <?= $form->field($model, 'name') ?>
  <?= $form->field($model, 'price') ?>
  <?= $form->field($model, 'sale') ?>
+ <i class="fa fa-solid fa-alien"></i>
 
  <div class="form-group">
      <div>
